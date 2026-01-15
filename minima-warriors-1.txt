@@ -1,0 +1,20 @@
+{
+      "date": "Thu Jan 15 00:09:56 UTC 2026",
+      "tokenid": "0xBABFDD0AE7B2415526C6B2034CFA40F5CFCEEBD42826098453E734AB9DF7A214",
+      "token": {
+        "name": {
+          "name": "Minima Warriors #1",
+          "url": "https://raw.githubusercontent.com/minima-warriors/images/refs/heads/main/minima-warriors-1.jpg",
+          "description": "Minima Warriors NFT Collection: A tribute to the warriors who contribute to the creation of the world's most decentralized blockchain.",
+          "webvalidate": "https://raw.githubusercontent.com/minima-warriors/validate/refs/heads/main/minima-warriors-1.txt",
+          "external_url": "https://raw.githubusercontent.com/minima-warriors/external/refs/heads/main/minima-warriors-1.txt",
+          "owner": "Minima Warriors"
+        },
+        "coinid": "0x01BDBD65B3592DF7541DCA28439C3311F89C978A140E841AD891FE72DD571C48",
+        "total": "1",
+        "decimals": 0,
+        "script": "RETURN TRUE",
+        "totalamount": "0.00000000000000000000000000000000000000000001",
+        "scale": "44",
+        "created": "1895733"
+}
